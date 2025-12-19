@@ -1,0 +1,530 @@
+{
+  "pays": "Ouzbékistan",
+  "drapeau": "🇺🇿",
+  "symbole": "🕌",
+  "titre": "Éclats de la Route de la Soie: Samarkand et ses Trésors",
+  "budget_total": "€",
+  "duree": "18 jours",
+  "temps_vol": "22h avec 2 escales depuis Labben, Philippines",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Tachkent, première immersion",
+      "legende": "Après un long voyage, atterrissez dans la capitale ouzbèke, Tachkent. Cette journée est dédiée à une douce transition, permettant de s'installer et de prendre ses marques. Profitez d'une balade légère pour sentir l'ambiance de la ville moderne, contrastant avec les trésors historiques à venir. Une première approche en douceur pour s'acclimater au fuseau horaire et à la culture locale.",
+      "lieu": "Tachkent",
+      "activites": [
+        "🛬 <strong>Arrivée et installation</strong>: Atterrissez à l'aéroport international de Tachkent et rejoignez votre hôtel 3 étoiles pour vous reposer après le vol. Prenez le temps de vous rafraîchir et de vous détendre.",
+        "🚶‍♂️ <strong>Balade légère dans le centre</strong>: Promenez-vous dans les environs de votre hôtel, découvrez les avenues bordées d'arbres et l'architecture soviétique. C'est l'occasion de repérer les premiers restaurants et de s'imprégner de l'atmosphère locale."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Monnaie locale",
+          "texte": "La monnaie est le Som Ouzbek (UZS). Prévoyez de changer de l'argent à l'aéroport ou dans les banques. Les cartes bancaires sont acceptées dans les grands hôtels et restaurants, mais le liquide est essentiel pour les marchés et petits commerces."
+        },
+        {
+          "symbole": "🚕",
+          "titre": "Transports à Tachkent",
+          "texte": "Utilisez des applications comme Yandex Go pour les taxis, c'est fiable et les prix sont fixes. Négociez toujours le prix avant de monter si vous prenez un taxi de rue."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🚄",
+      "titre": "De Tachkent à Samarkand, le cœur de la Route de la Soie",
+      "legende": "Ce matin, plongez dans l'histoire soviétique de Tachkent avant de prendre le train à grande vitesse Afrosiyob vers Samarkand. Le trajet offre un aperçu des paysages ouzbeks, des steppes aux champs cultivés. L'arrivée à Samarkand marque le début de l'exploration des merveilles de la Route de la Soie, une ville qui a fasciné les voyageurs pendant des siècles. Installez-vous et préparez-vous à l'émerveillement.",
+      "lieu": "Tachkent / Samarkand",
+      "activites": [
+        "🚇 <strong>Découverte du Métro de Tachkent</strong>: Visitez quelques-unes des stations de métro de Tachkent, célèbres pour leur architecture somptueuse et leurs décorations uniques. Chaque station est une œuvre d'art, reflétant l'héritage soviétique.",
+        "🚄 <strong>Trajet en train vers Samarkand</strong>: Prenez le train à grande vitesse Afrosiyob pour un voyage confortable et rapide vers Samarkand. Admirez les paysages défilant par la fenêtre, une transition douce vers la ville historique.",
+        "🚶‍♀️ <strong>Premiers pas à Samarkand</strong>: Après l'installation à votre hôtel, faites une courte promenade autour de votre quartier. Laissez-vous imprégner par l'ambiance de Samarkand, ses bruits et ses odeurs, en prévision des découvertes du lendemain."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🎟️",
+          "titre": "Billets de train",
+          "texte": "Réservez vos billets de train Afrosiyob à l'avance, surtout en haute saison, car ils sont très prisés. Le site des chemins de fer ouzbeks est fonctionnel."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "La photographie est autorisée dans le métro de Tachkent depuis 2018, mais soyez respectueux des locaux. Les stations sont magnifiques, ne manquez pas de capturer leur beauté."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "✨",
+      "titre": "Le Registan, cœur battant de Samarkand",
+      "legende": "Aujourd'hui, le Registan vous ouvre ses portes, une place légendaire qui a vu défiler des siècles d'histoire. Ses trois madrasas imposantes, ornées de mosaïques bleues et de calligraphies complexes, sont un chef-d'œuvre architectural. Passez la journée à explorer chaque recoin, à admirer les détails et à imaginer la vie des étudiants et des marchands qui animaient autrefois ce lieu. Une immersion totale dans la grandeur de Samarkand.",
+      "lieu": "Samarkand",
+      "activites": [
+        "🕌 <strong>Exploration de la Madrasa d'Ulug Beg</strong>: Visitez la plus ancienne des trois madrasas du Registan, construite par le petit-fils de Tamerlan, Ulug Beg, un astronome renommé. Admirez son portail majestueux et ses motifs célestes.",
+        "📚 <strong>Découverte de la Madrasa Sher-Dor</strong>: Faites face à la Madrasa Sher-Dor, dont la façade est ornée de tigres (ou lions) chassant des gazelles, un motif unique et audacieux défiant les conventions islamiques. Ses détails sont fascinants.",
+        "💫 <strong>Visite de la Madrasa Tilla Kari</strong>: Pénétrez dans la Madrasa Tilla Kari, dont la mosquée dorée est un véritable joyau. L'intérieur est recouvert d'or pur, créant une illusion de dôme sans fin, une splendeur à couper le souffle."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil photo",
+          "texte": "Le Registan est particulièrement photogénique au lever et au coucher du soleil, lorsque la lumière met en valeur les couleurs des mosaïques. Prévoyez d'y retourner à ces moments-là."
+        },
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Chaussures confortables",
+          "texte": "Prévoyez des chaussures confortables car vous marcherez beaucoup sur des pavés et des surfaces inégales. Le site est vaste et mérite d'être exploré en profondeur."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "👑",
+      "titre": "L'héritage de Tamerlan et Bibi-Khanym",
+      "legende": "Aujourd'hui, suivez les traces de Tamerlan, le grand conquérant, en visitant son mausolée, le Gour Emir, un chef-d'œuvre d'architecture timouride. Ensuite, laissez-vous impressionner par la grandeur de la mosquée Bibi-Khanym, construite pour son épouse favorite. Ces sites témoignent de la puissance et de la richesse de l'empire timouride, offrant un aperçu de l'âge d'or de Samarkand. Une journée riche en histoire et en splendeur architecturale.",
+      "lieu": "Samarkand",
+      "activites": [
+        "👑 <strong>Visite du Gour Emir</strong>: Explorez le mausolée de Tamerlan, le Gour Emir, avec son dôme côtelé turquoise et ses intérieurs richement décorés. C'est le lieu de repos éternel du grand conquérant et de ses descendants.",
+        "🕌 <strong>Découverte de la Mosquée Bibi-Khanym</strong>: Admirez l'immense mosquée Bibi-Khanym, autrefois l'une des plus grandes mosquées du monde islamique. Bien que partiellement en ruine, sa taille et ses portails majestueux sont impressionnants.",
+        "🛍️ <strong>Exploration du Bazar Siyob</strong>: Plongez dans l'ambiance vibrante du Bazar Siyob, situé juste à côté de Bibi-Khanym. Goûtez aux fruits secs, aux épices et aux pains traditionnels, et observez la vie locale animée."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🗣️",
+          "titre": "Négociation au bazar",
+          "texte": "N'hésitez pas à négocier les prix au Bazar Siyob, c'est une pratique courante et attendue. C'est aussi une excellente occasion d'interagir avec les vendeurs locaux."
+        },
+        {
+          "symbole": "🍞",
+          "titre": "Le pain ouzbek",
+          "texte": "Goûtez absolument au pain traditionnel (non) au bazar. Chaque région a sa propre forme et ses motifs, et celui de Samarkand est particulièrement réputé."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🌌",
+      "titre": "Science et spiritualité à Samarkand",
+      "legende": "Cette journée vous emmène à la rencontre de l'héritage scientifique et spirituel de Samarkand. Visitez l'observatoire d'Ulug Beg, témoin de l'âge d'or de l'astronomie islamique, puis explorez la nécropole de Shah-i-Zinda, un lieu de pèlerinage d'une beauté saisissante. Ces sites offrent un contraste fascinant entre la quête de la connaissance et la dévotion religieuse, tous deux profondément ancrés dans l'histoire de la ville. Une journée pour l'esprit et l'âme.",
+      "lieu": "Samarkand",
+      "activites": [
+        "🔭 <strong>Visite de l'Observatoire d'Ulug Beg</strong>: Découvrez les vestiges de l'observatoire d'Ulug Beg, un prince-astronome qui a révolutionné la cartographie céleste au XVe siècle. Apprenez-en plus sur ses instruments et ses découvertes.",
+        "⚰️ <strong>Exploration de la Nécropole de Shah-i-Zinda</strong>: Parcourez la magnifique allée de mausolées de Shah-i-Zinda, un complexe funéraire où chaque tombe est un chef-d'œuvre de céramique et de mosaïque. C'est un lieu de pèlerinage important et d'une beauté envoûtante.",
+        "🍽️ <strong>Dîner dans un restaurant local</strong>: Terminez la journée par un dîner dans un restaurant traditionnel pour goûter au plov, le plat national ouzbek, ou d'autres spécialités locales. Une expérience culinaire authentique."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Respect des lieux",
+          "texte": "À Shah-i-Zinda, couvrez vos épaules et vos genoux par respect pour ce lieu sacré. Les femmes peuvent prévoir un foulard pour couvrir leur tête."
+        },
+        {
+          "symbole": "🍲",
+          "titre": "Le Plov",
+          "texte": "Le plov est un plat à base de riz, de viande (agneau ou bœuf), de carottes et d'oignons. Chaque région a sa propre recette, et c'est un incontournable de la cuisine ouzbèke."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🎨",
+      "titre": "Artisanat et traditions de Samarkand",
+      "legende": "Cette journée est dédiée à l'artisanat et aux traditions vivantes de Samarkand. Visitez un atelier de fabrication de papier de soie, une technique ancestrale ramenée de Chine, puis explorez le mausolée de Daniel, un lieu de pèlerinage unique. L'après-midi, découvrez la mosquée Khazrat-Khyzr, offrant une vue panoramique sur la ville. Une journée pour apprécier le savoir-faire local et la richesse culturelle de Samarkand, loin des foules du Registan.",
+      "lieu": "Samarkand",
+      "activites": [
+        "📜 <strong>Atelier de papier de soie de Konigil</strong>: Rendez-vous au village de Konigil pour visiter un atelier où le papier de soie est fabriqué selon des méthodes traditionnelles. C'est une démonstration fascinante d'un savoir-faire ancestral.",
+        "🙏 <strong>Visite du Mausolée de Saint Daniel</strong>: Explorez le mausolée de Saint Daniel, un site de pèlerinage vénéré par les musulmans, les chrétiens et les juifs. La légende raconte que le corps du prophète continue de grandir.",
+        "🕌 <strong>Découverte de la Mosquée Khazrat-Khyzr</strong>: Montez jusqu'à la Mosquée Khazrat-Khyzr, l'une des plus anciennes de Samarkand, reconstruite au XIXe siècle. Profitez de la vue imprenable sur la ville, le Registan et la nécropole de Shah-i-Zinda."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Le papier de soie de Samarkand est un excellent souvenir, à la fois beau et porteur d'histoire. Vous pouvez acheter des carnets, des cartes ou des œuvres d'art."
+        },
+        {
+          "symbole": "💧",
+          "titre": "Source sacrée",
+          "texte": "Près du mausolée de Saint Daniel se trouve une source d'eau sacrée. Les pèlerins viennent y boire pour ses vertus curatives."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🏺",
+      "titre": "Musées et saveurs locales",
+      "legende": "Cette journée est consacrée à l'approfondissement de la culture et de l'histoire de Samarkand à travers ses musées. Le musée Afrosiyab vous plongera dans l'histoire pré-islamique de la ville, tandis que le musée d'État vous offrira un aperçu plus large de l'art et de l'histoire ouzbeks. L'après-midi, participez à une expérience culinaire pour découvrir les secrets de la cuisine locale. Une journée pour nourrir l'esprit et les papilles.",
+      "lieu": "Samarkand",
+      "activites": [
+        "🏛️ <strong>Visite du Musée Afrosiyab</strong>: Explorez le musée Afrosiyab, construit sur les ruines de l'ancienne Samarkand. Admirez les fresques murales du palais des souverains sogdiens, témoins de l'histoire pré-islamique de la région.",
+        "🖼️ <strong>Découverte du Musée d'État de l'histoire et de la culture</strong>: Plongez dans l'histoire et l'art de l'Ouzbékistan à travers les collections du musée d'État. Des artefacts anciens aux œuvres d'art contemporaines, il offre une perspective complète.",
+        "🧑‍🍳 <strong>Cours de cuisine ouzbek</strong>: Participez à un cours de cuisine pour apprendre à préparer des plats traditionnels comme le plov ou les mantis. C'est une manière interactive et délicieuse de s'immerger dans la culture locale."
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🗺️",
+          "titre": "Plan du musée",
+          "texte": "Le musée Afrosiyab est vaste, prenez un plan à l'entrée pour ne rien manquer des fresques et des vestiges archéologiques."
+        },
+        {
+          "symbole": "🌶️",
+          "titre": "Épices locales",
+          "texte": "Lors du cours de cuisine, vous découvrirez les épices utilisées dans la cuisine ouzbèke. N'hésitez pas à poser des questions sur leurs usages et leurs bienfaits."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🏞️",
+      "titre": "Excursion à Chakhrisabz, ville natale de Tamerlan",
+      "legende": "Aujourd'hui, quittez Samarkand pour une excursion d'une journée à Chakhrisabz, la ville natale de Tamerlan. Ce site classé au patrimoine mondial de l'UNESCO abrite les vestiges de son palais blanc, l'Ak Saray, ainsi que des mausolées et des mosquées. C'est une occasion unique de comprendre les origines du grand conquérant et de découvrir une autre facette de l'architecture timouride. Le trajet offre également de beaux paysages de montagne.",
+      "lieu": "Chakhrisabz",
+      "activites": [
+        "🏰 <strong>Visite du Palais Ak Saray</strong>: Explorez les impressionnants vestiges du Palais Ak Saray, le \"Palais Blanc\" de Tamerlan. Bien que seules des ruines subsistent, la taille et la splendeur des portails donnent une idée de sa grandeur passée.",
+        "🕌 <strong>Découverte du Complexe Dorut Tilovat</strong>: Visitez le complexe Dorut Tilovat, qui comprend la Mosquée Kok Gumbaz et le Mausolée de Gumbazi Sayidon. Ces édifices témoignent de l'architecture religieuse de l'époque timouride.",
+        "⚰️ <strong>Exploration du Complexe Dorus Saodat</strong>: Parcourez le complexe Dorus Saodat, qui abrite le mausolée de Jehangir, le fils aîné de Tamerlan, et la crypte de Tamerlan lui-même. Un lieu chargé d'histoire et d'émotion."
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Transport",
+          "texte": "Pour Chakhrisabz, il est préférable de louer un taxi pour la journée ou de participer à une excursion organisée. Le trajet dure environ 1h30 à 2h."
+        },
+        {
+          "symbole": "⛰️",
+          "titre": "Paysages",
+          "texte": "La route vers Chakhrisabz traverse de magnifiques paysages montagneux. Gardez votre appareil photo à portée de main pour les panoramas."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🐪",
+      "titre": "Vers Boukhara, la ville sainte",
+      "legende": "Aujourd'hui, quittez Samarkand pour une nouvelle étape sur la Route de la Soie : Boukhara. Cette ville sainte, avec ses milliers de monuments, est un musée à ciel ouvert. Le trajet en train vous mènera à travers des paysages désertiques, annonçant l'atmosphère unique de Boukhara. Après l'installation, une première balade dans le centre historique vous plongera immédiatement dans son charme intemporel. Préparez-vous à être transporté dans le passé.",
+      "lieu": "Samarkand / Boukhara",
+      "activites": [
+        "🚄 <strong>Trajet en train vers Boukhara</strong>: Prenez le train à grande vitesse Afrosiyob de Samarkand à Boukhara. Le voyage est confortable et offre une vue sur les vastes étendues de l'Ouzbékistan.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Arrivée à Boukhara, transfert à votre hôtel 3 étoiles situé dans ou près de la vieille ville. Prenez le temps de vous installer et de vous rafraîchir.",
+        "🚶‍♂️ <strong>Première balade au Lyab-i Hauz</strong>: Promenez-vous autour du complexe Lyab-i Hauz, le cœur de la vieille ville. Admirez les madrasas et la khanaka qui entourent le bassin, et imprégnez-vous de l'ambiance paisible au coucher du soleil."
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Hébergement",
+          "texte": "À Boukhara, de nombreux hôtels 3 étoiles sont d'anciennes maisons traditionnelles restaurées, offrant un charme unique. Choisissez-en un dans la vieille ville pour une immersion totale."
+        },
+        {
+          "symbole": "🌅",
+          "titre": "Ambiance nocturne",
+          "texte": "Le Lyab-i Hauz est particulièrement agréable en soirée, lorsque les lumières s'allument et que les locaux se promènent. C'est un excellent endroit pour observer la vie locale."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🕌",
+      "titre": "Boukhara, la magnificence du Poi Kalyan",
+      "legende": "Aujourd'hui, explorez le cœur spirituel de Boukhara, le complexe Poi Kalyan. Son minaret, surnommé la \"Tour de la Mort\", domine la ville et a survécu aux invasions de Gengis Khan. La mosquée et la madrasa adjacentes forment un ensemble architectural d'une beauté et d'une grandeur inégalées. Passez la journée à admirer les détails, à vous perdre dans les cours et à ressentir l'histoire millénaire de ce lieu sacré. Une immersion profonde dans l'âme de Boukhara.",
+      "lieu": "Boukhara",
+      "activites": [
+        "🗼 <strong>Ascension du Minaret Kalyan</strong>: Montez au sommet du Minaret Kalyan (si l'accès est autorisé et sécurisé) pour une vue panoramique imprenable sur la vieille ville de Boukhara. C'est un symbole emblématique de la ville.",
+        "🕌 <strong>Visite de la Mosquée Kalyan</strong>: Explorez l'immense Mosquée Kalyan, l'une des plus grandes d'Asie centrale, capable d'accueillir des milliers de fidèles. Admirez sa cour intérieure et ses 288 dômes.",
+        "📚 <strong>Découverte de la Madrasa Mir-i-Arab</strong>: Faites face à la Madrasa Mir-i-Arab, toujours en activité aujourd'hui. Son architecture et ses mosaïques sont superbes, offrant un aperçu de l'éducation islamique traditionnelle."
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "🤫",
+          "titre": "Légende du minaret",
+          "texte": "Le Minaret Kalyan est surnommé la \"Tour de la Mort\" car des criminels y étaient autrefois jetés. Gengis Khan fut tellement impressionné par sa beauté qu'il l'épargna."
+        },
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Code vestimentaire",
+          "texte": "Comme dans tous les lieux de culte, habillez-vous modestement. Couvrez vos épaules et vos genoux. Les femmes peuvent prévoir un foulard."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🛍️",
+      "titre": "Les coupoles marchandes et l'héritage juif",
+      "legende": "Aujourd'hui, plongez dans l'ambiance des anciennes coupoles marchandes de Boukhara, où les artisans perpétuent des savoir-faire ancestraux. Flânez dans les allées, admirez les tapis, les bijoux et les céramiques. Ensuite, découvrez l'histoire de la communauté juive de Boukhara, l'une des plus anciennes d'Asie centrale, en visitant sa synagogue. Une journée pour le shopping, la culture et la rencontre des traditions. Laissez-vous charmer par l'authenticité de Boukhara.",
+      "lieu": "Boukhara",
+      "activites": [
+        "🛍️ <strong>Exploration des Coupoles Marchandes</strong>: Parcourez les coupoles marchandes (Taqi Sarrafon, Taqi Telpak Furushon, Taqi Zargaron) où les artisans vendent leurs créations. C'est l'endroit idéal pour trouver des souvenirs uniques.",
+        "🕍 <strong>Visite de la Synagogue Magoki Attori</strong>: Découvrez la Synagogue Magoki Attori, l'une des plus anciennes d'Asie centrale, témoin de la riche histoire de la communauté juive de Boukhara. Son architecture est unique, mêlant influences locales.",
+        "🕌 <strong>Découverte de la Mosquée Magoki Attori</strong>: Visitez la Mosquée Magoki Attori, construite sur les ruines d'un ancien temple zoroastrien. Son portail sud, datant du XIIe siècle, est un chef-d'œuvre de l'architecture pré-mongole."
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "🏺",
+          "titre": "Artisanat local",
+          "texte": "Boukhara est réputée pour ses tapis, ses broderies (suzani), ses céramiques et ses bijoux. Prenez le temps d'observer les artisans travailler."
+        },
+        {
+          "symbole": "🤝",
+          "titre": "Rencontres",
+          "texte": "N'hésitez pas à engager la conversation avec les artisans et les vendeurs. Ils sont souvent ravis de partager leur savoir-faire et leur culture."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "🏰",
+      "titre": "L'Ark et les mausolées royaux",
+      "legende": "Aujourd'hui, remontez le temps en visitant l'Ark, la citadelle fortifiée qui fut la résidence des émirs de Boukhara. Ses murs imposants et ses cours intérieures racontent des siècles de pouvoir et d'intrigues. Ensuite, explorez le mausolée des Samanides, un joyau architectural du Xe siècle, et le mausolée de Chashma Ayub. Une journée pour plonger dans l'histoire politique et dynastique de Boukhara, et admirer des trésors architecturaux uniques. L'Ark offre une vue imprenable sur la ville.",
+      "lieu": "Boukhara",
+      "activites": [
+        "🏰 <strong>Exploration de l'Ark de Boukhara</strong>: Visitez l'Ark, la forteresse des émirs de Boukhara. Découvrez les salles du trône, les mosquées et les prisons, et imaginez la vie des souverains qui y ont régné.",
+        "⚰️ <strong>Découverte du Mausolée des Samanides</strong>: Admirez le Mausolée des Samanides, un chef-d'œuvre de l'architecture islamique du Xe siècle, connu pour ses motifs en briques cuites. C'est l'un des plus anciens et des mieux conservés d'Asie centrale.",
+        "💧 <strong>Visite du Mausolée de Chashma Ayub</strong>: Explorez le Mausolée de Chashma Ayub, qui abrite une source sacrée et un petit musée de l'eau. Son dôme conique est caractéristique et unique à Boukhara."
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "⏳",
+          "titre": "Histoire de l'Ark",
+          "texte": "L'Ark a été la résidence royale pendant plus de mille ans. Prenez le temps de lire les panneaux explicatifs pour comprendre son histoire complexe et ses différentes fonctions."
+        },
+        {
+          "symbole": "☀️",
+          "titre": "Protection solaire",
+          "texte": "Les sites sont souvent en plein air. Prévoyez un chapeau, des lunettes de soleil et de la crème solaire, surtout pendant les mois chauds."
+        }
+      ]
+    },
+    {
+      "jour": 13,
+      "symbole": "🌸",
+      "titre": "Palais d'été et derviches tourneurs",
+      "legende": "Cette journée vous emmène hors des murs de la vieille ville pour découvrir le Palais d'Été de l'Émir, Sitorai Mohi Hosa, un mélange fascinant d'architecture orientale et européenne. L'après-midi, plongez dans la spiritualité soufie en visitant la nécropole de Chor Bakr, un lieu de repos pour les descendants de Mahomet. En soirée, assistez à un spectacle de derviches tourneurs, une expérience culturelle envoûtante. Une journée entre grandeur royale et spiritualité mystique.",
+      "lieu": "Boukhara",
+      "activites": [
+        "🏰 <strong>Visite du Palais d'Été Sitorai Mohi Hosa</strong>: Explorez le Palais d'Été de l'Émir, un ancien palais d'été qui combine des styles architecturaux russes et orientaux. Admirez ses jardins et ses intérieurs somptueux.",
+        "⚰️ <strong>Découverte de la Nécropole de Chor Bakr</strong>: Visitez la nécropole de Chor Bakr, un complexe funéraire unique avec des mausolées et des cours. C'est un lieu de pèlerinage important et un exemple d'architecture funéraire ouzbèke.",
+        "💃 <strong>Spectacle de derviches tourneurs</strong>: Assistez à un spectacle de derviches tourneurs dans une madrasa historique. C'est une expérience culturelle et spirituelle captivante, souvent accompagnée de musique traditionnelle."
+      ],
+      "illustration": "jour13.jpg",
+      "encarts": [
+        {
+          "symbole": "👗",
+          "titre": "Style architectural",
+          "texte": "Le Palais d'Été est un exemple intéressant de l'influence européenne sur l'architecture ouzbèke à la fin du XIXe siècle. Observez les détails qui mélangent les cultures."
+        },
+        {
+          "symbole": "🎶",
+          "titre": "Musique traditionnelle",
+          "texte": "Les spectacles de derviches sont souvent accompagnés de musique traditionnelle ouzbèke. Laissez-vous porter par les mélodies et les chants."
+        }
+      ]
+    },
+    {
+      "jour": 14,
+      "symbole": "🕊️",
+      "titre": "Tranquillité et artisanat à Boukhara",
+      "legende": "Cette journée est dédiée à la découverte de sites moins fréquentés et à l'approfondissement de l'artisanat local. Visitez la Madrasa Chor Minor, avec ses quatre minarets bleus distinctifs, puis explorez les ateliers d'artisans pour observer leur travail. L'après-midi, profitez d'un moment de détente au Lyab-i Hauz, en sirotant un thé. Une journée pour apprécier la tranquillité de Boukhara et ses trésors cachés, loin de l'agitation des sites majeurs. Laissez-vous porter par le rythme de la ville.",
+      "lieu": "Boukhara",
+      "activites": [
+        "🕌 <strong>Visite de la Madrasa Chor Minor</strong>: Découvrez la Madrasa Chor Minor, célèbre pour ses quatre minarets coiffés de dômes bleus. C'est un petit bijou architectural, souvent moins fréquenté que les grands sites.",
+        "🎨 <strong>Exploration des ateliers d'artisans</strong>: Flânez dans les ruelles de la vieille ville et visitez les ateliers où les artisans travaillent le cuivre, la céramique ou la broderie. C'est une occasion d'acheter des pièces uniques directement auprès des créateurs.",
+        "☕ <strong>Détente au Lyab-i Hauz</strong>: Profitez d'un moment de détente au bord du bassin de Lyab-i Hauz. Asseyez-vous dans un des cafés environnants, sirotez un thé vert et observez la vie locale."
+      ],
+      "illustration": "jour14.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Spot photo",
+          "texte": "Chor Minor est un excellent spot photo, surtout avec le ciel bleu ou au coucher du soleil. Ses minarets sont très photogéniques."
+        },
+        {
+          "symbole": "🍵",
+          "titre": "Le thé ouzbek",
+          "texte": "Le thé est une boisson essentielle en Ouzbékistan. Le thé vert est le plus consommé, souvent servi sans sucre. C'est un rituel social important."
+        }
+      ]
+    },
+    {
+      "jour": 15,
+      "symbole": "🔄",
+      "titre": "Retour à Samarkand, dernières découvertes",
+      "legende": "Après avoir exploré les merveilles de Boukhara, reprenez le train pour Samarkand. Ce retour vous offre une nouvelle perspective sur les paysages ouzbeks. Une fois de retour à Samarkand, profitez de l'après-midi pour revisiter un site que vous avez particulièrement aimé, ou pour explorer un quartier que vous n'avez pas eu le temps de voir. C'est l'occasion de faire quelques derniers achats ou de simplement vous imprégner une dernière fois de l'atmosphère de cette ville légendaire. Une journée de transition et de redécouverte.",
+      "lieu": "Boukhara / Samarkand",
+      "activites": [
+        "🚄 <strong>Trajet en train vers Samarkand</strong>: Prenez le train de Boukhara pour retourner à Samarkand. Profitez du confort du train pour vous reposer ou admirer les paysages.",
+        "🛏️ <strong>Installation et détente</strong>: Arrivée à Samarkand, installez-vous dans votre hôtel. Prenez un moment pour vous détendre avant de reprendre l'exploration.",
+        "🚶‍♀️ <strong>Balade libre et shopping</strong>: Profitez de l'après-midi pour une balade libre. Vous pouvez retourner au Registan pour le voir sous une autre lumière, ou explorer les rues commerçantes pour des souvenirs de dernière minute."
+      ],
+      "illustration": "jour15.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Achats de souvenirs",
+          "texte": "Si vous n'avez pas encore trouvé tous vos souvenirs, c'est le moment idéal. Le Bazar Siyob ou les petites boutiques autour du Registan offrent un large choix."
+        },
+        {
+          "symbole": "💡",
+          "titre": "Revoir un site",
+          "texte": "N'hésitez pas à revisiter un site qui vous a particulièrement marqué. Le Registan, par exemple, révèle de nouveaux détails à chaque visite."
+        }
+      ]
+    },
+    {
+      "jour": 16,
+      "symbole": "🍇",
+      "titre": "Vignobles et traditions locales",
+      "legende": "Aujourd'hui, découvrez une facette inattendue de l'Ouzbékistan : sa tradition viticole. Visitez un vignoble local pour une dégustation et apprenez-en plus sur la production de vin dans cette région. L'après-midi, explorez le mausolée d'Al-Bukhari, un important lieu de pèlerinage pour les musulmans. Cette journée offre un mélange unique de culture, de gastronomie et de spiritualité, loin des sites touristiques habituels. Une expérience authentique et enrichissante.",
+      "lieu": "Samarkand",
+      "activites": [
+        "🍷 <strong>Visite et dégustation dans un vignoble</strong>: Rendez-vous dans un vignoble local près de Samarkand, comme le Khovrenko Winery, pour une visite et une dégustation de vins ouzbeks. C'est une surprise agréable dans un pays musulman.",
+        "🕌 <strong>Pèlerinage au Mausolée d'Al-Bukhari</strong>: Visitez le complexe commémoratif d'Imam Al-Bukhari, un érudit islamique majeur. C'est un lieu de pèlerinage important, avec une mosquée et un mausolée magnifiquement restaurés.",
+        "🍽️ <strong>Dîner d'adieu à Samarkand</strong>: Profitez d'un dernier dîner spécial à Samarkand dans un restaurant offrant une cuisine raffinée. C'est l'occasion de savourer une dernière fois les saveurs ouzbèkes."
+      ],
+      "illustration": "jour16.jpg",
+      "encarts": [
+        {
+          "symbole": "🍇",
+          "titre": "Vins ouzbeks",
+          "texte": "La production de vin en Ouzbékistan remonte à l'Antiquité. Les vins sont souvent doux et fruités, à découvrir sans a priori."
+        },
+        {
+          "symbole": "🙏",
+          "titre": "Respect du lieu",
+          "texte": "Le Mausolée d'Al-Bukhari est un site religieux très respecté. Adoptez une tenue modeste et un comportement respectueux."
+        }
+      ]
+    },
+    {
+      "jour": 17,
+      "symbole": "🛍️",
+      "titre": "Retour à Tachkent, derniers achats",
+      "legende": "Aujourd'hui, quittez Samarkand pour votre dernière étape en Ouzbékistan, Tachkent. Le trajet en train vous ramène à la capitale, où vous aurez l'occasion de faire quelques derniers achats de souvenirs ou de visiter un site que vous n'avez pas eu le temps de voir au début du voyage. Profitez de cette journée pour vous imprégner une dernière fois de l'ambiance ouzbèke avant votre départ. Une transition en douceur avant de quitter ce pays fascinant.",
+      "lieu": "Samarkand / Tachkent",
+      "activites": [
+        "🚄 <strong>Trajet en train vers Tachkent</strong>: Prenez le train à grande vitesse Afrosiyob de Samarkand à Tachkent. Profitez du voyage pour vous remémorer les moments forts de votre séjour.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Arrivée à Tachkent, transfert à votre hôtel 3 étoiles. Prenez le temps de vous installer et de vous rafraîchir.",
+        "🛍️ <strong>Derniers achats au Chorsu Bazaar</strong>: Visitez le Chorsu Bazaar, le plus grand marché de Tachkent, pour vos derniers achats de souvenirs, d'épices ou de produits locaux. C'est une expérience sensorielle inoubliable."
+      ],
+      "illustration": "jour17.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs du Chorsu",
+          "texte": "Au Chorsu Bazaar, vous trouverez de tout : épices, fruits secs, céramiques, textiles. N'oubliez pas de négocier les prix."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Ambiance du marché",
+          "texte": "Le Chorsu Bazaar est un lieu très animé et coloré. C'est un excellent endroit pour prendre des photos de la vie quotidienne ouzbèke."
+        }
+      ]
+    },
+    {
+      "jour": 18,
+      "symbole": "🛫",
+      "titre": "Départ de Tachkent",
+      "legende": "C'est le dernier jour de votre incroyable voyage en Ouzbékistan. Après le petit-déjeuner, profitez d'un dernier moment de détente ou d'une courte balade si le temps le permet. Il est temps de rejoindre l'aéroport de Tachkent pour votre vol de retour. Emportez avec vous les souvenirs inoubliables des cités légendaires de la Route de la Soie, de l'hospitalité ouzbèke et des splendeurs architecturales qui ont marqué votre esprit. Un voyage qui restera gravé dans votre mémoire.",
+      "lieu": "Tachkent",
+      "activites": [
+        "🍳 <strong>Petit-déjeuner à l'hôtel</strong>: Profitez d'un dernier petit-déjeuner ouzbek à votre hôtel, savourant les saveurs locales une dernière fois.",
+        "🛬 <strong>Transfert à l'aéroport et départ</strong>: Selon l'heure de votre vol, rejoignez l'aéroport international de Tachkent pour votre vol de retour vers Labben, Philippines. Prévoyez suffisamment de temps pour les formalités."
+      ],
+      "illustration": "jour18.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Heure de départ",
+          "texte": "Vérifiez l'heure de votre vol et prévoyez un transfert à l'aéroport au moins 3 heures avant le décollage pour les vols internationaux."
+        },
+        {
+          "symbole": "✈️",
+          "titre": "Enregistrement",
+          "texte": "Si possible, effectuez votre enregistrement en ligne pour gagner du temps à l'aéroport. Gardez vos documents de voyage à portée de main."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "1200€/pers (vol A/R Labben-Tachkent en classe économique)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "200€/pers (trains rapides, taxis locaux, transferts aéroport)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "630€/pers (35€/jour pour repas variés, incluant quelques restaurants plus élaborés)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "1020€/pers (17 nuits en hôtels 3 étoiles, base chambre double)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "150€/pers (entrées des sites majeurs, musées, cours de cuisine)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois d'avril et mai (printemps) ou de septembre et octobre (automne).",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La population ouzbèke est réputée pour son hospitalité chaleureuse. Les habitants sont souvent curieux et ravis d'interagir avec les visiteurs.",
+      "symbole": "🤝"
+    },
+    {
+      "titre": "L'Ouzbékistan est le cœur de l'ancienne Route de la Soie, un carrefour de cultures et de civilisations. C'est un pays majoritairement musulman, mais avec une approche modérée de la religion.",
+      "symbole": "🗺️"
+    },
+    {
+      "titre": "Le métro de Tachkent est l'un des plus beaux du monde, chaque station étant une œuvre d'art. C'est aussi le seul métro d'Asie centrale.",
+      "symbole": "🚇"
+    },
+    {
+      "titre": "Le plov est le plat national ouzbek, considéré comme un symbole d'hospitalité. Il existe des centaines de variantes régionales, chacune avec ses propres secrets de préparation.",
+      "symbole": "🍲"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations touristiques officielles sur l'Ouzbékistan",
+      "titre": "Uzbekistan.travel",
+      "url": "https://uzbekistan.travel/fr/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Réservation de billets de train en Ouzbékistan",
+      "titre": "Uzbekistan Railways",
+      "url": "https://e-ticket.railway.uz/en",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Prévisions météo pour l'Ouzbékistan",
+      "titre": "AccuWeather Ouzbékistan",
+      "url": "https://www.accuweather.com/fr/uz/uzbekistan-weather",
+      "symbole": "🌤️"
+    }
+  ]
+}
